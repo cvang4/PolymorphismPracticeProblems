@@ -2,7 +2,7 @@
  * Herds Activity
  */
 
-package Day61_InterfacesAndOOP.PolymorphismPracticeProblems;
+package Day61_InterfacesAndOOP.PolymorphismPracticeProblems.Herds;
 
 public class HerdsMain {
     public static void main(String[] args) {

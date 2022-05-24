@@ -1,4 +1,4 @@
-package Day61_InterfacesAndOOP.PolymorphismPracticeProblems;
+package Day61_InterfacesAndOOP.PolymorphismPracticeProblems.Herds;
 
     public class Organism implements Movable {
 
